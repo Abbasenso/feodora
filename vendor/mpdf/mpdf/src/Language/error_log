@@ -1,0 +1,2 @@
+[28-Sep-2021 19:00:39 UTC] PHP Fatal error:  Interface 'Mpdf\Language\ScriptToLanguageInterface' not found in /home/feodoranaturals/public_html/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php on line 8
+[29-Sep-2021 14:57:03 UTC] PHP Fatal error:  Interface 'Mpdf\Language\LanguageToFontInterface' not found in /home/feodoranaturals/public_html/vendor/mpdf/mpdf/src/Language/LanguageToFont.php on line 6

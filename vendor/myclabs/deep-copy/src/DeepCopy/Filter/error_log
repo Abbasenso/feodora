@@ -1,0 +1,6 @@
+[28-Sep-2021 06:09:57 UTC] PHP Fatal error:  Interface 'DeepCopy\Filter\Filter' not found in /home/feodoranaturals/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/SetNullFilter.php on line 11
+[29-Sep-2021 02:34:42 UTC] PHP Fatal error:  Interface 'DeepCopy\Filter\Filter' not found in /home/feodoranaturals/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/ReplaceFilter.php on line 11
+[01-Oct-2021 09:59:55 UTC] PHP Fatal error:  Interface 'DeepCopy\Filter\Filter' not found in /home/feodoranaturals/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/KeepFilter.php on line 6
+[04-Oct-2021 09:47:06 UTC] PHP Fatal error:  Interface 'DeepCopy\Filter\Filter' not found in /home/feodoranaturals/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/KeepFilter.php on line 6
+[04-Oct-2021 09:49:19 UTC] PHP Fatal error:  Interface 'DeepCopy\Filter\Filter' not found in /home/feodoranaturals/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/ReplaceFilter.php on line 11
+[04-Oct-2021 09:51:30 UTC] PHP Fatal error:  Interface 'DeepCopy\Filter\Filter' not found in /home/feodoranaturals/public_html/vendor/myclabs/deep-copy/src/DeepCopy/Filter/SetNullFilter.php on line 11

@@ -1,0 +1,2 @@
+[02-Oct-2021 11:32:00 UTC] PHP Fatal error:  Class 'tFPDF' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/Tfpdf/FpdfTpl.php on line 22
+[02-Oct-2021 11:32:28 UTC] PHP Fatal error:  Class 'setasign\Fpdi\Tfpdf\FpdfTpl' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/Tfpdf/Fpdi.php on line 26

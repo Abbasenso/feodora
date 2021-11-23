@@ -1,0 +1,15 @@
+[28-Sep-2021 08:03:36 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'creating archive "/home/feodoranaturals/public_html/vendor/paragonie/random_compat/dist/random_compat.phar" disabled by the php.ini setting phar.readonly' in /home/feodoranaturals/public_html/vendor/paragonie/random_compat/other/build_phar.php:13
+Stack trace:
+#0 /home/feodoranaturals/public_html/vendor/paragonie/random_compat/other/build_phar.php(13): Phar->__construct('/home/feodorana...', 256, 'random_compat.p...')
+#1 {main}
+  thrown in /home/feodoranaturals/public_html/vendor/paragonie/random_compat/other/build_phar.php on line 13
+[28-Sep-2021 09:27:31 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'creating archive "/home/feodoranaturals/public_html/vendor/paragonie/random_compat/dist/random_compat.phar" disabled by the php.ini setting phar.readonly' in /home/feodoranaturals/public_html/vendor/paragonie/random_compat/other/build_phar.php:13
+Stack trace:
+#0 /home/feodoranaturals/public_html/vendor/paragonie/random_compat/other/build_phar.php(13): Phar->__construct('/home/feodorana...', 256, 'random_compat.p...')
+#1 {main}
+  thrown in /home/feodoranaturals/public_html/vendor/paragonie/random_compat/other/build_phar.php on line 13
+[07-Oct-2021 09:43:00 UTC] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'creating archive "/home/feodoranaturals/public_html/vendor/paragonie/random_compat/dist/random_compat.phar" disabled by the php.ini setting phar.readonly' in /home/feodoranaturals/public_html/vendor/paragonie/random_compat/other/build_phar.php:13
+Stack trace:
+#0 /home/feodoranaturals/public_html/vendor/paragonie/random_compat/other/build_phar.php(13): Phar->__construct('/home/feodorana...', 256, 'random_compat.p...')
+#1 {main}
+  thrown in /home/feodoranaturals/public_html/vendor/paragonie/random_compat/other/build_phar.php on line 13

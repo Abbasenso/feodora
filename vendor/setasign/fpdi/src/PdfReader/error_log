@@ -1,0 +1,1 @@
+[03-Oct-2021 07:29:01 UTC] PHP Fatal error:  Class 'setasign\Fpdi\FpdiException' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/PdfReader/PdfReaderException.php on line 20

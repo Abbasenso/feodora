@@ -1,0 +1,19 @@
+[25-Sep-2021 15:54:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/feodoranaturals/public_html/phpComponent/topBanner.php on line 2
+[25-Sep-2021 15:54:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/feodoranaturals/public_html/phpComponent/topBanner.php on line 9
+[25-Sep-2021 18:45:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/feodoranaturals/public_html/phpComponent/catagoriRow.php on line 4
+[27-Sep-2021 16:32:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/feodoranaturals/public_html/phpComponent/twoPoster.php on line 2
+[27-Sep-2021 16:32:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/feodoranaturals/public_html/phpComponent/twoPoster.php on line 12
+[28-Sep-2021 10:01:19 UTC] PHP Fatal error:  Call to undefined function get_product() in /home/feodoranaturals/public_html/phpComponent/bestSeller.php on line 26
+[08-Oct-2021 08:07:34 UTC] PHP Fatal error:  Call to undefined function get_product() in /home/feodoranaturals/public_html/phpComponent/bestSeller.php on line 26
+[08-Oct-2021 08:08:43 UTC] PHP Fatal error:  Call to undefined function get_product() in /home/feodoranaturals/public_html/phpComponent/bseller.php on line 6
+[08-Oct-2021 08:11:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/feodoranaturals/public_html/phpComponent/catagoriRow.php on line 4
+[08-Oct-2021 08:52:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/feodoranaturals/public_html/phpComponent/new.php on line 6
+[08-Oct-2021 20:13:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/feodoranaturals/public_html/phpComponent/newarrival.php on line 26
+[08-Oct-2021 20:13:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/feodoranaturals/public_html/phpComponent/newarrival.php on line 27
+[08-Oct-2021 20:17:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/feodoranaturals/public_html/phpComponent/poster.php on line 2
+[08-Oct-2021 20:17:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/feodoranaturals/public_html/phpComponent/poster.php on line 12
+[08-Oct-2021 20:18:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/feodoranaturals/public_html/phpComponent/products.php on line 6
+[08-Oct-2021 20:30:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/feodoranaturals/public_html/phpComponent/topBanner.php on line 2
+[08-Oct-2021 20:30:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/feodoranaturals/public_html/phpComponent/topBanner.php on line 9
+[08-Oct-2021 20:34:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/feodoranaturals/public_html/phpComponent/twoPoster.php on line 2
+[08-Oct-2021 20:34:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/feodoranaturals/public_html/phpComponent/twoPoster.php on line 12

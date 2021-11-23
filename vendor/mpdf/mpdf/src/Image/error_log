@@ -1,0 +1,1 @@
+[30-Sep-2021 03:28:15 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerAwareInterface' not found in /home/feodoranaturals/public_html/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 32

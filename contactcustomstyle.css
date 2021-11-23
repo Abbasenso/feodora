@@ -1,0 +1,15 @@
+nav.navbar #navbar.navbar-desktop ul.navbar-nav>li.page_item_has_children>a:after, nav.navbar #navbar.navbar-desktop ul.navbar-nav>li.menu-item-has-children>a:after {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 14px;
+    vertical-align: middle;
+    content: "\f105";
+    font-weight: 400;
+    margin: 4px 0 0 6px;
+    position: absolute;
+    transition: color .5s ease;
+}

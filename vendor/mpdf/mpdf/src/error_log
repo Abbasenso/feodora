@@ -1,0 +1,16 @@
+[28-Sep-2021 18:58:15 UTC] PHP Fatal error:  Trait 'Mpdf\Strict' not found in /home/feodoranaturals/public_html/vendor/mpdf/mpdf/src/Otl.php on line 19
+[28-Sep-2021 18:58:35 UTC] PHP Fatal error:  Trait 'setasign\Fpdi\FpdiTrait' not found in /home/feodoranaturals/public_html/vendor/mpdf/mpdf/src/FpdiTrait.php on line 24
+[28-Sep-2021 18:58:48 UTC] PHP Fatal error:  Trait 'Mpdf\Strict' not found in /home/feodoranaturals/public_html/vendor/mpdf/mpdf/src/Form.php on line 15
+[28-Sep-2021 18:59:30 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerAwareInterface' not found in /home/feodoranaturals/public_html/vendor/mpdf/mpdf/src/SizeConverter.php on line 9
+[29-Sep-2021 17:28:50 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerAwareInterface' not found in /home/feodoranaturals/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 37
+[29-Sep-2021 18:04:04 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerAwareInterface' not found in /home/feodoranaturals/public_html/vendor/mpdf/mpdf/src/RemoteContentFetcher.php on line 10
+[29-Sep-2021 22:23:49 UTC] PHP Fatal error:  Trait 'Mpdf\Strict' not found in /home/feodoranaturals/public_html/vendor/mpdf/mpdf/src/TTFontFile.php on line 52
+[30-Sep-2021 09:43:24 UTC] PHP Fatal error:  Trait 'setasign\Fpdi\FpdiTrait' not found in /home/feodoranaturals/public_html/vendor/mpdf/mpdf/src/FpdiTrait.php on line 24
+[30-Sep-2021 09:44:29 UTC] PHP Fatal error:  Trait 'Mpdf\Strict' not found in /home/feodoranaturals/public_html/vendor/mpdf/mpdf/src/Form.php on line 15
+[30-Sep-2021 09:47:32 UTC] PHP Fatal error:  Trait 'Mpdf\Strict' not found in /home/feodoranaturals/public_html/vendor/mpdf/mpdf/src/Otl.php on line 19
+[30-Sep-2021 09:51:56 UTC] PHP Fatal error:  Trait 'Mpdf\Strict' not found in /home/feodoranaturals/public_html/vendor/mpdf/mpdf/src/Tag.php on line 16
+[30-Sep-2021 09:52:35 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerAwareInterface' not found in /home/feodoranaturals/public_html/vendor/mpdf/mpdf/src/SizeConverter.php on line 9
+[30-Sep-2021 16:04:02 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerAwareInterface' not found in /home/feodoranaturals/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 37
+[30-Sep-2021 19:59:26 UTC] PHP Fatal error:  Class 'Mpdf\MpdfException' not found in /home/feodoranaturals/public_html/vendor/mpdf/mpdf/src/MpdfImageException.php on line 6
+[30-Sep-2021 20:36:59 UTC] PHP Fatal error:  Trait 'Mpdf\Strict' not found in /home/feodoranaturals/public_html/vendor/mpdf/mpdf/src/TTFontFile.php on line 52
+[01-Oct-2021 13:11:55 UTC] PHP Fatal error:  Class 'Mpdf\MpdfException' not found in /home/feodoranaturals/public_html/vendor/mpdf/mpdf/src/MpdfImageException.php on line 6

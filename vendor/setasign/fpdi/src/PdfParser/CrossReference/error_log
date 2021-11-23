@@ -1,0 +1,1 @@
+[02-Oct-2021 09:25:36 UTC] PHP Fatal error:  Class 'setasign\Fpdi\PdfParser\PdfParserException' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/PdfParser/CrossReference/CrossReferenceException.php on line 20

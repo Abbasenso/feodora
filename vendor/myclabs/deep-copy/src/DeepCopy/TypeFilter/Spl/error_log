@@ -1,0 +1,2 @@
+[04-Oct-2021 13:50:53 UTC] PHP Fatal error:  Class 'DeepCopy\TypeFilter\Spl\SplDoublyLinkedListFilter' not found in /home/feodoranaturals/public_html/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Spl/SplDoublyLinkedList.php on line 9
+[04-Oct-2021 13:52:11 UTC] PHP Fatal error:  Interface 'DeepCopy\TypeFilter\TypeFilter' not found in /home/feodoranaturals/public_html/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Spl/SplDoublyLinkedListFilter.php on line 14

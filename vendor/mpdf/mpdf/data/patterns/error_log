@@ -1,0 +1,2 @@
+[28-Sep-2021 08:18:53 UTC] PHP Parse error:  syntax error, unexpected 'CV' (T_STRING) in /home/feodoranaturals/public_html/vendor/mpdf/mpdf/data/patterns/nl.php on line 10
+[28-Sep-2021 08:19:46 UTC] PHP Parse error:  syntax error, unexpected 'CV' (T_STRING) in /home/feodoranaturals/public_html/vendor/mpdf/mpdf/data/patterns/de.php on line 8

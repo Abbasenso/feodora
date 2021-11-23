@@ -1,0 +1,7 @@
+[02-Oct-2021 15:05:39 UTC] PHP Fatal error:  Interface 'setasign\Fpdi\PdfParser\Filter\FilterInterface' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/PdfParser/Filter/Ascii85.php on line 18
+[02-Oct-2021 15:10:01 UTC] PHP Fatal error:  Class 'setasign\Fpdi\PdfParser\Filter\FilterException' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/PdfParser/Filter/LzwException.php on line 18
+[03-Oct-2021 02:45:37 UTC] PHP Fatal error:  Class 'setasign\Fpdi\PdfParser\Filter\FilterException' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/PdfParser/Filter/FlateException.php on line 18
+[03-Oct-2021 04:24:31 UTC] PHP Fatal error:  Interface 'setasign\Fpdi\PdfParser\Filter\FilterInterface' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/PdfParser/Filter/Flate.php on line 18
+[03-Oct-2021 12:34:48 UTC] PHP Fatal error:  Class 'setasign\Fpdi\PdfParser\Filter\FilterException' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/PdfParser/Filter/Ascii85Exception.php on line 18
+[04-Oct-2021 03:09:50 UTC] PHP Fatal error:  Class 'setasign\Fpdi\PdfParser\PdfParserException' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/PdfParser/Filter/FilterException.php on line 20
+[04-Oct-2021 09:55:14 UTC] PHP Fatal error:  Interface 'setasign\Fpdi\PdfParser\Filter\FilterInterface' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/PdfParser/Filter/Lzw.php on line 18

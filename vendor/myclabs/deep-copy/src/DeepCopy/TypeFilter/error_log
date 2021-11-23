@@ -1,0 +1,2 @@
+[04-Oct-2021 10:10:09 UTC] PHP Fatal error:  Interface 'DeepCopy\TypeFilter\TypeFilter' not found in /home/feodoranaturals/public_html/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 9
+[04-Oct-2021 10:11:06 UTC] PHP Fatal error:  Interface 'DeepCopy\TypeFilter\TypeFilter' not found in /home/feodoranaturals/public_html/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 9

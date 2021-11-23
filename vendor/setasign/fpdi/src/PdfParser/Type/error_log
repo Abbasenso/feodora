@@ -1,0 +1,13 @@
+[03-Oct-2021 02:51:17 UTC] PHP Fatal error:  Class 'setasign\Fpdi\PdfParser\Type\PdfType' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/PdfParser/Type/PdfIndirectObject.php on line 22
+[03-Oct-2021 06:23:07 UTC] PHP Fatal error:  Class 'setasign\Fpdi\PdfParser\Type\PdfType' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/PdfParser/Type/PdfStream.php on line 29
+[03-Oct-2021 14:51:00 UTC] PHP Fatal error:  Class 'setasign\Fpdi\PdfParser\Type\PdfType' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/PdfParser/Type/PdfIndirectObjectReference.php on line 18
+[03-Oct-2021 15:09:00 UTC] PHP Fatal error:  Class 'setasign\Fpdi\PdfParser\Type\PdfType' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/PdfParser/Type/PdfHexString.php on line 20
+[03-Oct-2021 15:29:00 UTC] PHP Fatal error:  Class 'setasign\Fpdi\PdfParser\Type\PdfType' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/PdfParser/Type/PdfArray.php on line 22
+[03-Oct-2021 15:49:00 UTC] PHP Fatal error:  Class 'setasign\Fpdi\PdfParser\Type\PdfType' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/PdfParser/Type/PdfString.php on line 20
+[03-Oct-2021 16:06:29 UTC] PHP Fatal error:  Class 'setasign\Fpdi\PdfParser\Type\PdfType' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/PdfParser/Type/PdfToken.php on line 18
+[03-Oct-2021 16:29:00 UTC] PHP Fatal error:  Class 'setasign\Fpdi\PdfParser\Type\PdfType' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/PdfParser/Type/PdfNull.php on line 18
+[03-Oct-2021 16:49:03 UTC] PHP Fatal error:  Class 'setasign\Fpdi\PdfParser\PdfParserException' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/PdfParser/Type/PdfTypeException.php on line 20
+[03-Oct-2021 18:29:01 UTC] PHP Fatal error:  Class 'setasign\Fpdi\PdfParser\Type\PdfType' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/PdfParser/Type/PdfBoolean.php on line 18
+[03-Oct-2021 18:47:00 UTC] PHP Fatal error:  Class 'setasign\Fpdi\PdfParser\Type\PdfType' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/PdfParser/Type/PdfName.php on line 21
+[03-Oct-2021 21:41:00 UTC] PHP Fatal error:  Class 'setasign\Fpdi\PdfParser\Type\PdfType' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/PdfParser/Type/PdfNumeric.php on line 18
+[03-Oct-2021 22:17:00 UTC] PHP Fatal error:  Class 'setasign\Fpdi\PdfParser\Type\PdfType' not found in /home/feodoranaturals/public_html/vendor/setasign/fpdi/src/PdfParser/Type/PdfDictionary.php on line 22
